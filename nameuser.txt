@@ -1,0 +1,8 @@
+﻿admin;admin;A=ERWA;B=R;C=;D=E;E=RA;pwdChanged=2025-10-28;pwdTTL=90
+shchegol;1234;A=ERW;B=;C=E;D=;E=;pwdChanged=2025-10-28;pwdTTL=60
+editor;editor;A=RW;B=RW;C=;D=;E=;pwdChanged=2025-10-28;pwdTTL=30
+executor;exec;A=;B=;C=;D=E;E=;pwdChanged=2025-10-28;pwdTTL=30
+appender;append;A=;B=;C=;D=;E=RA;pwdChanged=2025-10-28;pwdTTL=30
+expired;expired;A=R;B=;C=;D=;E=;pwdChanged=2025-09-28;pwdTTL=0
+reader;reader;A=R;B=R;C=R;D=;E=;pwdChanged=2025-10-28;pwdTTL=60
+testuser;test;A=ER;B=W;C=;D=A;E=;pwdChanged=2025-10-28;pwdTTL=45
